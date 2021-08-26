@@ -1,3 +1,6 @@
+// Resolve call na kore output kmne ashtese?
+
+
 const apiData = () => {
     return new Promise((resolve, reject) => {
         setTimeout(() => {
